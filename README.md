@@ -19,7 +19,7 @@ An attacker was able to exploit the vulnerability on the affected server and beg
 
 In this task, you will write a Python script to bruteforce the decryption key of the encrypted file. Bruteforcing is the act of repeatedly trying different combinations to break the password encryption (based on either randomly generated passwords or from a list of passwords to try). In the resource attached to this project, we've provided a small subset of passwords from **Rockyou** - a widely know password wordlist that contains thousands of common passwords in one wordlist. Ransomware will often encrypt all files on a device, and sometimes give the decryption key after the ransom has been paid (but this is not always the case!). In this task, we would like you to break the encryption without paying the ransom.
 
-### Python Code Completion 
+## Python Code Completion 
 To view the python code that we created in order to complete the assignment please see attached document labeled: <br>
 **"bruteforce ransomware.py"**
 
